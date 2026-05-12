@@ -1,7 +1,7 @@
 # Tesis: Impresión 3D de Concreto con Robot KUKA — SIMPLE
 **Sincronización Bomba-Robot para Impresión 3D de Concreto (3DCP)**  
 Universidad Peruana de Ciencias Aplicadas (UPC) — Ingeniería Mecatrónica  
-Autor: Gianpiero Rick Huaricapcha  
+Autor: Gianpiero Rick Huaricapcha, Joaquin Velarde Yaranga 
 Año: 2026
 
 ---
@@ -9,7 +9,7 @@ Año: 2026
 ## Descripción
 
 Este repositorio contiene todo el material técnico de la tesis de pregrado sobre
-impresión 3D de concreto (3DCP) con un brazo robótico KUKA industrial.
+impresión 3D de concreto (3DCP) con un brazo robótico KUKA industrial KR60.
 
 El sistema integra:
 - Robot **KUKA** con programación KRL
@@ -97,7 +97,7 @@ G-code / Geometría Rhino
 - Python 3.x (IronPython en GH)
 
 ### Hardware
-- Robot KUKA (modelo: ___)
+- Robot KUKA (modelo: KR60)
 - Bomba de mortero SC BF-990
 - Manguera 3/4" × 2.5 m
 - Boquilla de ___ mm
@@ -106,8 +106,7 @@ G-code / Geometría Rhino
 
 ## Publicaciones relacionadas
 
-- Paper CACRE 2026: *"Pump-Robot Synchronization for 3D Concrete Printing with Eco-friendly Nozzle"*
-- Estancia KTH Royal Institute of Technology — NanoREPU Program (2025)
+- Paper CACRE 2026: *""*
 
 ---
 
@@ -115,9 +114,6 @@ G-code / Geometría Rhino
 
 ```bibtex
 @thesis{huaricapcha2026,
-  author  = {Huaricapcha, Gianpiero Rick},
-  title   = {Sincronización Bomba-Robot para Impresión 3D de Concreto},
-  school  = {Universidad Peruana de Ciencias Aplicadas},
   year    = {2026},
   type    = {Tesis de pregrado}
 }
