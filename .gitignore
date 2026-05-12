@@ -1,0 +1,20 @@
+# Rhino
+*.bak
+*.rhl
+__pycache__/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac
+.DS_Store
